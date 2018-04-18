@@ -6,25 +6,25 @@ R-Ladies Melbourne Events
 Events in 2018
 ==============
 
-[Public Transport Maps and Geospatial Data In R](https://github.com/R-LadiesMelbourne/2018-02-12_PublicTransportMaps_and_GeospatialDataInR)
--------------------------------------------------------------------------------------------------------------------------------------------
+[Everything you need to know to create your R package!](https://github.com/R-LadiesMelbourne/2018-04-17_Text_Aanalysis_in_R)
+----------------------------------------------------------------------------------------------------------------------------
 
-Speaker [Belinda Maher](https://twitter.com/mingabelle). Find video of the seminar on YouTube <https://www.youtube.com/watch?v=84G6ZNTEHCo>
-
-[Parallel Programming in R](https://github.com/R-LadiesMelbourne/2018-03-15_Parallelprogramming_in_R)
------------------------------------------------------------------------------------------------------
-
-Prepared and presented by [Soroor Zadeh](https://github.com/soroorh)
+Prepared and presented by [Earo Wang](https://github.com/R-LadiesMelbourne/2018-05-17_CreateRPackages)
 
 [More than words - Text analysis in R](https://github.com/R-LadiesMelbourne/2018-04-17_Text_Aanalysis_in_R)
 -----------------------------------------------------------------------------------------------------------
 
 Prepared and presented by [Maria Prokofieva](https://www.vu.edu.au/contact-us/maria-prokofieva)
 
-[Everything you need to know to create your R package!](https://github.com/R-LadiesMelbourne/2018-04-17_Text_Aanalysis_in_R)
-----------------------------------------------------------------------------------------------------------------------------
+[Parallel Programming in R](https://github.com/R-LadiesMelbourne/2018-03-15_Parallelprogramming_in_R)
+-----------------------------------------------------------------------------------------------------
 
-Prepared and presented by [Earo Wang](https://github.com/R-LadiesMelbourne/2018-05-17_CreateRPackages)
+Prepared and presented by [Soroor Zadeh](https://github.com/soroorh)
+
+[Public Transport Maps and Geospatial Data In R](https://github.com/R-LadiesMelbourne/2018-02-12_PublicTransportMaps_and_GeospatialDataInR)
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Speaker [Belinda Maher](https://twitter.com/mingabelle). Find video of the seminar on YouTube <https://www.youtube.com/watch?v=84G6ZNTEHCo>
 
 Events in 2016-2017
 ===================
