@@ -5,6 +5,11 @@ R-Ladies Melbourne Events
 
 # Events in 2019
 
+## [Cluster analysis with international education data – challenges and insights](https://github.com/R-LadiesMelbourne/2019-07-15-Cluster-analysis-with-international-education-data)
+
+Prepared and presented by [Jenny
+Shen](https://www.nousgroup.com/people/jenny-shen/)
+
 ## [NLP with SpaCy in R](https://github.com/R-LadiesMelbourne/2019-06-18-NLP-with-SpaCy-in-R)
 
 Prepared and presented by [Ana
