@@ -5,6 +5,17 @@ R-Ladies Melbourne Events
 
 # Events in 2019
 
+## [Gold star reproducibility: straightforward containerisation with open-source tools](https://github.com/R-LadiesMelbourne/2019-09-17-Gold-star-reproducibility-containerisation)
+
+Prepared and presented by Saras
+Windecker
+
+## [Introduction to R workshop](https://github.com/R-LadiesMelbourne/2019-08-17_Introduction-to-R-workshop)
+
+Prepared and presented by [Goknur
+Giner](https://twitter.com/goknurginer) and [Nikki
+Rubinstein](https://twitter.com/nikkirubinstein)
+
 ## [Cluster analysis with international education data – challenges and insights](https://github.com/R-LadiesMelbourne/2019-07-15-Cluster-analysis-with-international-education-data)
 
 Prepared and presented by [Jenny
