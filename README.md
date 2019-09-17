@@ -10,6 +10,11 @@ R-Ladies Melbourne Events
 Prepared and presented by Saras
 Windecker
 
+## [It takes a spark](https://github.com/R-LadiesMelbourne/2019-0912-It-takes-a-spark)
+
+Prepared and presented by [Shazia](https://twitter.com/search?q=%40DrShaziaRuybal&src=typd&lang=en)
+and [Marie](https://twitter.com/mtrussart?lang=en)
+
 ## [Introduction to R workshop](https://github.com/R-LadiesMelbourne/2019-08-17_Introduction-to-R-workshop)
 
 Prepared and presented by [Goknur
