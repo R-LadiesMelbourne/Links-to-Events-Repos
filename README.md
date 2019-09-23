@@ -12,8 +12,8 @@ Prepared and presented by [Alison Hill](https://alison.rbind.io/)
 
 ## [Gold star reproducibility: straightforward containerisation with open-source tools](https://github.com/R-LadiesMelbourne/2019-09-17-Gold-star-reproducibility-containerisation)
 
-Prepared and presented by Saras
-Windecker
+Prepared and presented by [Saras
+Windecker](https://github.com/smwindecker)
 
 ## [It takes a spark](https://github.com/R-LadiesMelbourne/2019-0912-It-takes-a-spark)
 
