@@ -5,6 +5,11 @@ R-Ladies Melbourne Events
 
 # Events in 2019
 
+## [Designing Data Science](https://github.com/R-LadiesMelbourne/2019-11-26-Hadley-Wickham)
+
+Prepared and presented by [Hadley
+Wickham](http://hadley.nz/)
+
 ## [R-Shiny Tricks or Treats, Maybe Both?](https://github.com/R-LadiesMelbourne/2019-10-28-R-Shiny-Tricks-or-Treats-Maybe-Both-)
 
 Prepared and presented by [Goknur
