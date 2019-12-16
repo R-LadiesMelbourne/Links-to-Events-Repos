@@ -5,6 +5,8 @@ R-Ladies Melbourne Events
 
 # Events in 2019
 
+## [Christmas networking party](https://github.com/R-LadiesMelbourne/2019-12-17-Christmas-party)
+
 ## [Designing Data Science](https://github.com/R-LadiesMelbourne/2019-11-26-Hadley-Wickham)
 
 Prepared and presented by [Hadley
