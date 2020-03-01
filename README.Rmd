@@ -18,7 +18,7 @@ grid.raster(img)
 # Events in 2020
 
 ## [TidyTuesday](https://github.com/R-LadiesMelbourne/2020-02-27-Tidy-Tuesday) 
-
+Organised by Sepideh Foroutan and Anna Quaglieri and run by Sepideh.
 
 # Events in 2019
 

@@ -7,6 +7,8 @@ R-Ladies Melbourne Events
 
 ## [TidyTuesday](https://github.com/R-LadiesMelbourne/2020-02-27-Tidy-Tuesday)
 
+Organised by Sepideh Foroutan and Anna Quaglieri and run by Sepideh.
+
 # Events in 2019
 
 ## [Christmas networking party](https://github.com/R-LadiesMelbourne/2019-12-17-Christmas-party)
