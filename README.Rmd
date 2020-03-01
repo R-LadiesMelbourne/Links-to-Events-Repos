@@ -15,6 +15,11 @@ grid.raster(img)
 
 \clearpage
 
+# Events in 2020
+
+## [TidyTuesday](https://github.com/R-LadiesMelbourne/2020-02-27-Tidy-Tuesday) 
+
+
 # Events in 2019
 
 ## [Christmas networking party](https://github.com/R-LadiesMelbourne/2019-12-17-Christmas-party)
