@@ -5,9 +5,15 @@ R-Ladies Melbourne Events
 
 # Events in 2020
 
+## [Binovisualfields Package: Development and Publication to CRAN](https://github.com/R-LadiesMelbourne/2020-05-12-Binovisualfields-Package-Development-and-Publication-to-CRAN)
+
+Organised by Nikki Rubinstein and run by Virginia
+Liu.
+
 ## [TidyTuesday](https://github.com/R-LadiesMelbourne/2020-02-27-Tidy-Tuesday)
 
-Organised by Sepideh Foroutan and Anna Quaglieri and run by Sepideh.
+Organised by Sepideh Foroutan and Anna Quaglieri and run by
+Sepideh.
 
 # Events in 2019
 
@@ -15,7 +21,8 @@ Organised by Sepideh Foroutan and Anna Quaglieri and run by Sepideh.
 
 ## [Designing Data Science](https://github.com/R-LadiesMelbourne/2019-11-26-Hadley-Wickham)
 
-Prepared and presented by [Hadley Wickham](http://hadley.nz/)
+Prepared and presented by [Hadley
+Wickham](http://hadley.nz/)
 
 ## [R-Shiny Tricks or Treats, Maybe Both?](https://github.com/R-LadiesMelbourne/2019-10-28-R-Shiny-Tricks-or-Treats-Maybe-Both-)
 
@@ -24,15 +31,18 @@ Giner](https://twitter.com/goknurginer)
 
 ## [Intro to Data Analysis and Graphics with R](https://github.com/R-LadiesMelbourne/2019-10-11-Intro-to-Data-Analysis-and-Graphics-with-R)
 
-Presented and prepared by ZHUOWEN(Tobey) Zhang
+Presented and prepared by ZHUOWEN(Tobey)
+Zhang
 
 ## [Take a sad plot and make it better](https://github.com/R-LadiesMelbourne/2019-09-26-Take-a-sad-plot-and-make-it-better)
 
-Prepared and presented by [Alison Hill](https://alison.rbind.io/)
+Prepared and presented by [Alison
+Hill](https://alison.rbind.io/)
 
 ## [Gold star reproducibility: straightforward containerisation with open-source tools](https://github.com/R-LadiesMelbourne/2019-09-17-Gold-star-reproducibility-containerisation)
 
-Prepared and presented by Saras Windecker
+Prepared and presented by Saras
+Windecker
 
 ## [Introduction to R workshop](https://github.com/R-LadiesMelbourne/2019-08-17_Introduction-to-R-workshop)
 
@@ -65,7 +75,8 @@ Prepared and presented by:
 
   - [Anna Quaglieri](https://github.com/annaquaglieri16), PhD Student in
     Bioinformatics at the University of Melbourne and the Walter and
-    Eliza Hall Institute of Medical Research
+    Eliza Hall Institute of Medical
+Research
 
 # Events in 2018
 
@@ -73,12 +84,14 @@ Prepared and presented by:
 
 Prepared and presented by [Soroor Zadeh](https://github.com/soroorh),
 Master Student in Statistics at the University of Melbourne and Research
-Assisant at the Walter and Eliza Hall Institute of Medical Research.
+Assisant at the Walter and Eliza Hall Institute of Medical
+Research.
 
 ## [From zero to science hero in 1 week](https://github.com/R-LadiesMelbourne/2018-11-14_From-zero-to-data-science-hero-in-1-week)
 
 Speaker: [Fiona Milne](https://twitter.com/fionascottym), data scientist
-at Eliiza, a ML/AI consulting company.
+at Eliiza, a ML/AI consulting
+company.
 
 ## [How R you? - R-Ladies Melbourne second anniversary](https://github.com/R-LadiesMelbourne/2018-10-16_How-R-You)
 
@@ -102,7 +115,8 @@ Supercomputing.
 ## [Getting down and up with blogging with R\!](https://github.com/R-LadiesMelbourne/2018-08-28-Getting-down-and-up-with-blogging-with-R)
 
 Run by [Emi Tanaka](https://emitanaka.github.io/), Lecturer in
-Statistics, University of Sydney
+Statistics, University of
+Sydney
 
 ## [Follow me\! Introduction to social media analysis in R](https://github.com/R-LadiesMelbourne/Follow-Me-Introduction-to-social-media-analysis-in-R)
 
@@ -114,7 +128,8 @@ Run by:
 2.  [Anna Quaglieri](https://github.com/annaquaglieri16), PhD Student in
     Bioinformatics, The Walter and Eliza Hall Institute
 3.  [Saskia Freytag](https://github.com/SaskiaFreytag), Postdoctoral
-    Fellow, The Walter and Eliza Hall Institute
+    Fellow, The Walter and Eliza Hall
+Institute
 
 ## [Introduction to R](https://github.com/R-LadiesMelbourne/2018-06-16_Introduction-to-R-workshop)
 
@@ -124,13 +139,15 @@ Run by:
     Bioinformatician at Peter MacCallum Cancer Centre.
 2.  [Adele
     Barugahare](https://www.monash.edu/researchinfrastructure/bioinformatics/about/people),
-    Bioinformatician at Monash University.
+    Bioinformatician at Monash
+University.
 
 ## [Everything you need to know to create your R package\!](https://github.com/earowang/rladies-pkg)
 
 Find all the R code [here](https://github.com/earowang/romato).
 
-Prepared and presented by [Earo Wang](https://earo.me/).
+Prepared and presented by [Earo
+Wang](https://earo.me/).
 
 ## [More than words - Text analysis in R](https://github.com/R-LadiesMelbourne/2018-04-17_Text_Aanalysis_in_R)
 
@@ -148,7 +165,8 @@ Find video of the seminar on YouTube
 ## [Public Transport Maps and Geospatial Data In R](https://github.com/R-LadiesMelbourne/2018-02-12_PublicTransportMaps_and_GeospatialDataInR)
 
 Speaker [Belinda Maher](https://twitter.com/mingabelle). Find video of
-the seminar on YouTube <https://www.youtube.com/watch?v=84G6ZNTEHCo>
+the seminar on YouTube
+<https://www.youtube.com/watch?v=84G6ZNTEHCo>
 
 # Events in 2016-2017
 
@@ -157,7 +175,8 @@ the seminar on YouTube <https://www.youtube.com/watch?v=84G6ZNTEHCo>
 Speaker: [Di
 Cook](https://monash.edu/research/explore/en/persons/dianne-cook\(be6154be-91fd-4bed-bf30-d1da98e88212\).html),
 Professor of Business Analytics in the Department of Econometrics and
-Business Statistics at Monash University.
+Business Statistics at Monash
+University.
 
 ## [R Notebooks and Interactive Graphics](https://github.com/R-LadiesMelbourne/2017-02-20-RNotebooksAheatmapInteractiveGraphics)
 
@@ -168,7 +187,8 @@ Speakers:
 2.  [Jovana
     Maksimovic](https://www.mcri.edu.au/users/dr-jovana-maksimovic),
     Postdoctoral scientist in Bioinformatics at the Murdoch Children
-    Research Institute.
+    Research
+Institute.
 
 ## [Git and GitHub workshop](https://github.com/R-LadiesMelbourne/2017-04-05-Git-Workshop)
 
@@ -182,7 +202,8 @@ Speaker: [Anna Quaglieri](https://github.com/annaquaglieri16), PhD
 candidate in Bioinformatics at the Walter and Eliza Hall Institute.
 
 Helper: [Saskia Freitag](https://twitter.com/trashystats), Postdoctoral
-scientist in Bioinformatics at the Walter and Eliza Hall Institute.
+scientist in Bioinformatics at the Walter and Eliza Hall
+Institute.
 
 ## [Web Scraping & Sports Analytics](https://github.com/R-LadiesMelbourne/2017-06-15-Web-ScrapingAndSportsAnalytics)
 
@@ -195,7 +216,8 @@ University.
 
 Speaker: [Kristen
 Hunter](https://statistics.fas.harvard.edu/people/kristen-hunter), PhD
-candidate in statistics at Harvard University.
+candidate in statistics at Harvard
+University.
 
 ## [mixOmics: Combine Large Scale Datasets](https://github.com/R-LadiesMelbourne/2017-08-22-combine-large-scale-dataset-workshop)
 
@@ -208,7 +230,8 @@ Academic, Mathematics and Statistics at the University of Melbourne.
 
 Find video of workshop on YouTube: - Part 1. Introduction to mixOmics
 <https://www.youtube.com/watch?v=ZnIFeguzNA4&t=34s> - Part 2. Hands on
-turorial on mixOmics <https://www.youtube.com/watch?v=C8ReqvpdSI0>
+turorial on mixOmics
+<https://www.youtube.com/watch?v=C8ReqvpdSI0>
 
 ## [Introduction to R Workshop](https://github.com/R-LadiesMelbourne/2017-09-23-Introduction_to_R_workshop)
 
@@ -217,7 +240,8 @@ Speakers:
 1.  [Roxane Legaie](https://twitter.com/RoxaneLegaie), Lead Clinical
     Bioinformatician at Peter MacCallum Cancer Centre.
 2.  [Nikki Rubinstein](https://twitter.com/nikkirubinstein), PhD
-    candidate at Melbourne University.
+    candidate at Melbourne
+University.
 
 ## [Random Forest, Climate Change and Food Production](https://github.com/R-LadiesMelbourne/2017-10-25-ClimateChange_and_RandomForest)
 
@@ -238,7 +262,8 @@ Trussart](https://www.researchgate.net/profile/Marie_Trussart).
 ## [Introduction to R-Shiny](https://github.com/R-LadiesMelbourne/2017-11-23-Introduction-To-RShiny)
 
 Prepared and presented by [Soroor Zadeh](https://github.com/soroorh) and
-[Marie Trussart](https://www.researchgate.net/profile/Marie_Trussart).
+[Marie
+Trussart](https://www.researchgate.net/profile/Marie_Trussart).
 
 ## [Christmas Party](https://github.com/R-LadiesMelbourne/2017-12-14_Christmas-Party)
 
