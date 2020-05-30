@@ -7,8 +7,9 @@ R-Ladies Melbourne Events
 
 ## [Recent work in cluster trials and the representation of women in statistics](https://github.com/R-LadiesMelbourne/2020-06-22-Longitudinal-cluster-trial-and-women-in-statistics)
 
-Presented by [Jessica
-Kaska](https://jkasza.netlify.app/).
+Presented by [Jessica Kaska](https://jkasza.netlify.app/), Senior
+Lecturer, Biostatistics Unit, Dept. of Epidemiology and Preventive
+Medicine.
 
 ## [Binovisualfields Package: Development and Publication to CRAN](https://github.com/R-LadiesMelbourne/2020-05-12-Binovisualfields-Package-Development-and-Publication-to-CRAN)
 
