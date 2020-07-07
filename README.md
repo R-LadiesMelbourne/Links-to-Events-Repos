@@ -5,6 +5,11 @@ R-Ladies Melbourne Events
 
 # Events in 2020
 
+## [Would you like to become a more Confident and Engaging Speaker?](https://github.com/R-LadiesMelbourne/2020-07-29-Would-you-like-to-become-a-more-Confident-and-Engaging-Speaker-)
+
+Presented by [Jo
+Evans](https://www.linkedin.com/in/jo-evans/).
+
 ## [Recent work in cluster trials and the representation of women in statistics](https://github.com/R-LadiesMelbourne/2020-06-22-Longitudinal-cluster-trial-and-women-in-statistics)
 
 Presented by [Jessica Kaska](https://jkasza.netlify.app/), Senior
