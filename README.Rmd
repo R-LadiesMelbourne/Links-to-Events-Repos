@@ -17,6 +17,10 @@ grid.raster(img)
 
 # Events in 2020
 
+## [R Markdown - A Better Way of Communicating with Data
+](https://github.com/R-LadiesMelbourne/2020-08-24-R-Markdown-A-Better-Way-of-Communicating-with-Data)
+Presented by [Danyang Dai](https://dai.netlify.app).
+
 ## [Would you like to become a more Confident and Engaging Speaker?
 ](https://github.com/R-LadiesMelbourne/2020-07-29-Would-you-like-to-become-a-more-Confident-and-Engaging-Speaker-)
 Presented by [Jo Evans](https://www.linkedin.com/in/jo-evans/).
