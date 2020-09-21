@@ -5,6 +5,10 @@ R-Ladies Melbourne Events
 
 # Events in 2020
 
+## [Sport, Data and R](https://github.com/R-LadiesMelbourne/2020-09-21-sport-data-R)
+
+Presented by [Alice Sweeting](http://sportstatisticsrsweet.rbind.io/).
+
 ## [R Markdown - A Better Way of Communicating with Data](https://github.com/R-LadiesMelbourne/2020-08-24-R-Markdown-A-Better-Way-of-Communicating-with-Data)
 
 Presented by [Danyang Dai](https://dai.netlify.app).
