@@ -17,6 +17,11 @@ grid.raster(img)
 
 # Events in 2020
 
+## [How R you? - 4-year anniversary](https://github.com/R-LadiesMelbourne/2020-11-16_How-R-You-4years)
+
+## [Resume Guru](https://github.com/R-LadiesMelbourne/2020-10-13-The-Resume-Guru)
+Presented by [Tahlia Marks](https://tahliaco.wixsite.com/resumegurubytahlia)
+
 ## [Sport, Data and R](https://github.com/R-LadiesMelbourne/2020-09-21-sport-data-R)
 Presented by [Alice Sweeting](http://sportstatisticsrsweet.rbind.io/).
 
