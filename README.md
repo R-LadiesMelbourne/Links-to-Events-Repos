@@ -8,7 +8,7 @@ R-Ladies Melbourne Events
 ## [How R you? - 4-year anniversary](https://github.com/R-LadiesMelbourne/2020-11-16_How-R-You-4years)
 
 Go to [R-Ladies Melbourne Tips
-website](rladies-melbourne-4years.netlify.app).
+website](https://rladies-melbourne-4years.netlify.app/).
 
 ## [Resume Guru](https://github.com/R-LadiesMelbourne/2020-10-13-The-Resume-Guru)
 
