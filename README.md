@@ -3,6 +3,16 @@ R-Ladies Melbourne Events
 
 <img src="README_files/figure-gfm/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
 
+# Events in 2021
+
+## [rstudio::global(2021) %\>% filter(workshops == “diversity scholars”) %\>% summarize()](https://github.com/R-LadiesMelbourne/2021-04-15-rstudio-global-2021-filter-workshops-diversity-scholars-summarize-)
+
+Presented by [Dr Shazia Ruybal Pesántez](https://www.shaziaruybal.com).
+
+## [2021-02-25-Tidy-Tuesday](https://github.com/R-LadiesMelbourne/2021-02-25-Tidy-Tuesday)
+
+Organised by [Danyang Dai](https://dai.netlify.app).
+
 # Events in 2020
 
 ## [How R you? - 4-year anniversary](https://github.com/R-LadiesMelbourne/2020-11-16_How-R-You-4years)
@@ -13,7 +23,7 @@ website](https://rladies-melbourne-4years.netlify.app/).
 ## [Resume Guru](https://github.com/R-LadiesMelbourne/2020-10-13-The-Resume-Guru)
 
 Presented by [Tahlia
-Marks](https://tahliaco.wixsite.com/resumegurubytahlia)
+Marks](https://tahliaco.wixsite.com/resumegurubytahlia).
 
 ## [Sport, Data and R](https://github.com/R-LadiesMelbourne/2020-09-21-sport-data-R)
 
