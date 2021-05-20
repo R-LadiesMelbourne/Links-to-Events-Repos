@@ -5,7 +5,11 @@ R-Ladies Melbourne Events
 
 # Events in 2021
 
-## [rstudio::global(2021) %\>% filter(workshops == “diversity scholars”) %\>% summarize()](https://github.com/R-LadiesMelbourne/2021-04-15-rstudio-global-2021-filter-workshops-diversity-scholars-summarize-)
+## [Create and publish your personal website with Blogdown](https://github.com/R-LadiesMelbourne/2021-05-19-publish-your-website-with-blogdown)
+
+Presented by [Danyang Dai](https://twitter.com/Daidaidai2014)
+
+## [rstudio::global(2021) %&gt;% filter(workshops == “diversity scholars”) %&gt;% summarize()](https://github.com/R-LadiesMelbourne/2021-04-15-rstudio-global-2021-filter-workshops-diversity-scholars-summarize-)
 
 Presented by [Dr Shazia Ruybal Pesántez](https://www.shaziaruybal.com).
 
@@ -101,11 +105,11 @@ Gordon](https://www.linkedin.com/in/lavinia-gordon-74b58659/?originalSubdomain=a
 
 Prepared and presented by:
 
-  - [Soroor Zadeh](https://github.com/soroorh), Master Student in
+-   [Soroor Zadeh](https://github.com/soroorh), Master Student in
     Statistics at the University of Melbourne and Research Assisant at
     the Walter and Eliza Hall Institute of Medical Research
 
-  - [Anna Quaglieri](https://github.com/annaquaglieri16), PhD Student in
+-   [Anna Quaglieri](https://github.com/annaquaglieri16), PhD Student in
     Bioinformatics at the University of Melbourne and the Walter and
     Eliza Hall Institute of Medical Research
 
@@ -141,12 +145,12 @@ Adams](https://www.linkedin.com/in/caitlinisabeladams/?originalSubdomain=au),
 PhD Student at Swinburne University’s Centre for Astrophysics and
 Supercomputing.
 
-## [Getting down and up with blogging with R\!](https://github.com/R-LadiesMelbourne/2018-08-28-Getting-down-and-up-with-blogging-with-R)
+## [Getting down and up with blogging with R!](https://github.com/R-LadiesMelbourne/2018-08-28-Getting-down-and-up-with-blogging-with-R)
 
 Run by [Emi Tanaka](https://emitanaka.github.io/), Lecturer in
 Statistics, University of Sydney
 
-## [Follow me\! Introduction to social media analysis in R](https://github.com/R-LadiesMelbourne/Follow-Me-Introduction-to-social-media-analysis-in-R)
+## [Follow me! Introduction to social media analysis in R](https://github.com/R-LadiesMelbourne/Follow-Me-Introduction-to-social-media-analysis-in-R)
 
 Run by:
 
@@ -168,7 +172,7 @@ Run by:
     Barugahare](https://www.monash.edu/researchinfrastructure/bioinformatics/about/people),
     Bioinformatician at Monash University.
 
-## [Everything you need to know to create your R package\!](https://github.com/earowang/rladies-pkg)
+## [Everything you need to know to create your R package!](https://github.com/earowang/rladies-pkg)
 
 Find all the R code [here](https://github.com/earowang/romato).
 
@@ -197,7 +201,7 @@ the seminar on YouTube <https://www.youtube.com/watch?v=84G6ZNTEHCo>
 ## [Launch Meetup](https://github.com/R-LadiesMelbourne/2016-10-18-Launch-Meetup)
 
 Speaker: [Di
-Cook](https://monash.edu/research/explore/en/persons/dianne-cook\(be6154be-91fd-4bed-bf30-d1da98e88212\).html),
+Cook](https://monash.edu/research/explore/en/persons/dianne-cook(be6154be-91fd-4bed-bf30-d1da98e88212).html),
 Professor of Business Analytics in the Department of Econometrics and
 Business Statistics at Monash University.
 

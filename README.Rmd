@@ -17,7 +17,12 @@ grid.raster(img)
 
 # Events in 2021
 
+## [Create and publish your personal website with Blogdown](https://github.com/R-LadiesMelbourne/2021-05-19-publish-your-website-with-blogdown)
+
+Presented by [Danyang Dai](https://twitter.com/Daidaidai2014)
+
 ## [rstudio::global(2021) %>% filter(workshops == “diversity scholars”) %>% summarize()](https://github.com/R-LadiesMelbourne/2021-04-15-rstudio-global-2021-filter-workshops-diversity-scholars-summarize-)
+
 Presented by [Dr Shazia Ruybal Pesántez](https://www.shaziaruybal.com).
 
 ## [2021-02-25-Tidy-Tuesday](https://github.com/R-LadiesMelbourne/2021-02-25-Tidy-Tuesday)
