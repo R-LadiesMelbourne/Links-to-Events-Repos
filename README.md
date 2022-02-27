@@ -3,7 +3,39 @@ R-Ladies Melbourne Events
 
 <img src="README_files/figure-gfm/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
 
+# Events in 2022
+
+## Automate your CV using R Markdown: Easy as 1, 2, knit
+
+Presented by [Shazia Ruybal-Pesántez](https://github.com/shaziaruybal)
+
+Find video on Youtube:
+<https://www.youtube.com/watch?v=Fc1RwRskk08&t=223s&ab_channel=R-LadiesMelbourne>
+
 # Events in 2021
+
+## [The Art of Design: Software & Experimental Design](https://github.com/R-LadiesMelbourne/2021-09-16-Anomalies-You-can-t-escape-them)
+
+Presented [Emi Tanaka](https://emitanaka.github.io/), Lecturer in
+Statistics, University of Sydney
+
+Find video on YouTube:
+<https://www.youtube.com/watch?v=8caV0KvmNNw&t=645s&ab_channel=R-LadiesMelbourne>
+
+## Anomalies! You can’t escape them
+
+Presented by [Sevvandi Kandanaarachchi](https://twitter.com/Sevvandik)
+
+Find video on YouTube:
+<https://www.youtube.com/watch?v=l9yK7EP7dcM&ab_channel=R-LadiesMelbourne>
+
+## [A remote glimpse into the useR!2021 conference](https://github.com/R-LadiesMelbourne/2021-08-03-A-remote-glimpse-into-the-useR-2021-conference)
+
+Presented by [Anna
+Quaglieri](https://user2021-rladies-melbourne.netlify.app/#1)
+
+Find video on YouTube:
+<https://www.youtube.com/watch?v=XBoWCTYUvgY&t=240s&ab_channel=R-LadiesMelbourne>
 
 ## [Create and publish your personal website with Blogdown](https://github.com/R-LadiesMelbourne/2021-05-19-publish-your-website-with-blogdown)
 
