@@ -5,6 +5,13 @@ R-Ladies Melbourne Events
 
 # Events in 2022
 
+## [AI Ethics Workshop](https://github.com/R-LadiesMelbourne/2022-02-28-AI-Ethics-Workshop-Laura-Summers)
+
+Presented by [Laura Summers](https://github.com/summerscope) founder of
+[debias.ai](https://debias.ai/)
+
+Find video on Youtube:
+
 ## Automate your CV using R Markdown: Easy as 1, 2, knit
 
 Presented by [Shazia Ruybal-Pesántez](https://github.com/shaziaruybal)
