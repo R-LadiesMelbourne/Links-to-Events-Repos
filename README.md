@@ -20,7 +20,7 @@ Find video recording on [Youtube](https://youtu.be/3wPfPdokaXQ)
 
 ## [Data viz for mass audiences]()
 
-Presented by Juliette O'Brien, journalist and founder/maintainer of [covid19data.com.au](www.covid19data.com.au)
+Presented by Juliette O'Brien, journalist and founder/maintainer of [covid19data.com.au](https://www.covid19data.com.au/)
 
 Find video recording on [Youtube](https://www.youtube.com/watch?v=Es-lEV7elZE)
 
