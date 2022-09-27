@@ -5,6 +5,19 @@ R-Ladies Melbourne Events
 
 # Events in 2022
 
+## [Switching between space and time: Spatio-temporal analysis with cubble](https://github.com/R-LadiesMelbourne/27-09-2022-Spatio-Temporal-analysis-with-cubble)
+
+Presented by [Sherry Zhang](https://github.com/huizezhang-sherry), PhD Student, Monash University
+
+Find video recording on [Youtube](https://www.youtube.com/watch?v=6Ka021fABxk&t=117s)
+
+
+## [The workflow of tidy data, constructing plots and making data-driven decisions](https://github.com/R-LadiesMelbourne/01-09-2022-The-workflow-of-tidy-data-building-new-plots-and-making-data-driven-decisions)
+
+Presented by [Di Cook](https://github.com/dicook), Professor, Econometrics and Business Statistics, Monash University
+
+Find video recording on [Youtube](https://youtu.be/3wPfPdokaXQ)
+
 ## [AI Ethics Workshop](https://github.com/R-LadiesMelbourne/2022-02-28-AI-Ethics-Workshop-Laura-Summers)
 
 Presented by [Laura Summers](https://github.com/summerscope) founder of
