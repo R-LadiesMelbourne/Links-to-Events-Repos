@@ -18,11 +18,23 @@ Presented by [Di Cook](https://github.com/dicook), Professor, Econometrics and B
 
 Find video recording on [Youtube](https://youtu.be/3wPfPdokaXQ)
 
-## [Data viz for mass audiences]()
+## [Data viz for mass audiences](https://github.com/R-LadiesMelbourne/07-04-2022-Data-viz-for-mass-audiences-with-Juliette-O-Brien)
 
 Presented by Juliette O'Brien, journalist and founder/maintainer of [covid19data.com.au](https://www.covid19data.com.au/)
 
 Find video recording on [Youtube](https://www.youtube.com/watch?v=Es-lEV7elZE)
+
+## [Building a new geom in ggplot2](https://github.com/R-LadiesMelbourne/24-05-2022-Building-a-new-geom-in-ggplot2)
+
+Presented by [Sayani Gupta](https://github.com/Sayani07)
+
+Find video recording on [Youtube](https://www.youtube.com/watch?v=ZMHJdW6a20I)
+
+## [How to do analysis for others without going crazy: My mistakes in consulting](https://github.com/R-LadiesMelbourne/07-03-2022-my-mistakes-in-consulting)
+
+Presented by Taya Collyer
+
+Find video recording on [Youtube](https://www.youtube.com/watch?v=9XRxKcYlBLU&ab_channel=R-LadiesMelbourne)
 
 ## [AI Ethics Workshop](https://github.com/R-LadiesMelbourne/2022-02-28-AI-Ethics-Workshop-Laura-Summers)
 
