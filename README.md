@@ -18,6 +18,12 @@ Presented by [Di Cook](https://github.com/dicook), Professor, Econometrics and B
 
 Find video recording on [Youtube](https://youtu.be/3wPfPdokaXQ)
 
+## [Data viz for mass audiences]()
+
+Presented by Juliette O'Brien, journalist and founder/maintainer of [covid19data.com.au](www.covid19data.com.au)
+
+Find video recording on [Youtube](https://www.youtube.com/watch?v=Es-lEV7elZE)
+
 ## [AI Ethics Workshop](https://github.com/R-LadiesMelbourne/2022-02-28-AI-Ethics-Workshop-Laura-Summers)
 
 Presented by [Laura Summers](https://github.com/summerscope) founder of
