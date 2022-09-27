@@ -43,7 +43,7 @@ Presented by [Laura Summers](https://github.com/summerscope) founder of
 
 Find video on Youtube:
 
-## Automate your CV using R Markdown: Easy as 1, 2, knit
+## [Automate your CV using R Markdown: Easy as 1, 2, knit](https://github.com/R-LadiesMelbourne/04-02-2022-Automate-your-CV-using-R-Markdown)
 
 Presented by [Shazia Ruybal-Pesántez](https://github.com/shaziaruybal)
 
