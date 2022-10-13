@@ -5,6 +5,12 @@ R-Ladies Melbourne Events
 
 # Events in 2022
 
+## How I use workflowr to create reproducible analyses
+
+Presented by [Jovana Maksimovic](https://twitter.com/JovMaksimovic), Postdoctoral Researcher in Bioinformatics at the Peter MacCallum Cancer Centre.
+
+[Find slides here](https://github.com/R-LadiesMelbourne/13-11-2022-How-I-use-workflowr-to-create-reproducible-analyses)
+
 ## [Switching between space and time: Spatio-temporal analysis with cubble](https://github.com/R-LadiesMelbourne/27-09-2022-Spatio-Temporal-analysis-with-cubble)
 
 Presented by [Sherry Zhang](https://github.com/huizezhang-sherry), PhD Student, Monash University

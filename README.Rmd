@@ -17,11 +17,19 @@ grid.raster(img)
 
 # Events in 2022
 
+
+## [How to do analysis for others without going crazy: My mistakes in consulting](https://github.com/R-LadiesMelbourne/2022-02-28-AI-Ethics-Workshop-Laura-Summers)
+
+Presented by [Dr. Taya Collyer](https://research.monash.edu/en/persons/taya-collyer) 
+
+Find video on Youtube: 
+
+
 ## [AI Ethics Workshop](https://github.com/R-LadiesMelbourne/2022-02-28-AI-Ethics-Workshop-Laura-Summers)
 
 Presented by [Laura Summers](https://github.com/summerscope) founder of [debias.ai](https://debias.ai/)
 
-Find video on Youtube: 
+Find video on Youtube: https://www.youtube.com/watch?v=j2cH7JWIUcI&ab_channel=R-LadiesMelbourne
 
 ## Automate your CV using R Markdown: Easy as 1, 2, knit
 
