@@ -5,6 +5,12 @@ R-Ladies Melbourne Events
 
 # Events in 2022
 
+## [Choose your own adventure: Tools for Open and Reproducible Research](https://github.com/R-LadiesMelbourne/30-11-22-Chose-your-own-adventure-Tools-For-Open-and-Reproducible-Research.git)
+
+Presented by [Cynthia Huang](https://twitter.com/cynthiahqy), PhD Student in Econometrics and Business Statistics at Monash University.
+
+[Find slides here](https://github.com/R-LadiesMelbourne/30-11-22-Chose-your-own-adventure-Tools-For-Open-and-Reproducible-Research)
+
 ## [How I use workflowr to create reproducible analyses](https://github.com/R-LadiesMelbourne/13-11-2022-How-I-use-workflowr-to-create-reproducible-analyses)
 
 Presented by [Jovana Maksimovic](https://twitter.com/JovMaksimovic), Postdoctoral Researcher in Bioinformatics at the Peter MacCallum Cancer Centre.
