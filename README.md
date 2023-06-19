@@ -5,6 +5,12 @@ R-Ladies Melbourne Events
 
 # Events in 2023
 
+## [What's New in the Tidyverse?](https://github.com/R-LadiesMelbourne/30-05-2023-Whats-New-In-The-Tidyverse)
+
+Presented by [Mine Çetinkaya-Rundel](https://twitter.com/minebocek), Professor of the Practice and the Director of Undergraduate Studies at the Department of Statistical Science at Duke University.
+
+Find slides [here](https://github.com/mine-cetinkaya-rundel/tidyverse-2023/tree/main).
+
 ## [Navigating Public Health Careers: insights into career journeys](https://github.com/R-LadiesMelbourne/23-02-23-Navigating-Public-Health-Careers/tree/main)
 
 Presented by [Dr. Danielle Ingle](https://twitter.com/drdanielleingle?lang=en), [Steph Main](https://twitter.com/stephanieemain?lang=en) and [Dr. Danielle Hock](https://twitter.com/daniellahock?lang=en).
