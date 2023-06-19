@@ -3,6 +3,14 @@ R-Ladies Melbourne Events
 
 <img src="README_files/figure-gfm/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
 
+# Events in 2023
+
+## [Navigating Public Health Careers: insights into career journeys](https://github.com/R-LadiesMelbourne/23-02-23-Navigating-Public-Health-Careers/tree/main)
+
+Presented by [Dr. Danielle Ingle](https://twitter.com/drdanielleingle?lang=en), [Steph Main](https://twitter.com/stephanieemain?lang=en) and [Dr. Danielle Hock](https://twitter.com/daniellahock?lang=en).
+
+Find slides for each presenter [here](https://github.com/R-LadiesMelbourne/23-02-23-Navigating-Public-Health-Careers/blob/main/2023_RLadies_DanielleIngle.pdf) [here](https://github.com/R-LadiesMelbourne/23-02-23-Navigating-Public-Health-Careers/blob/main/Steph%20-%2020230223%20Road%20to%20Applied%20Epi_RLadies%20(2).pdf) [and here](https://github.com/R-LadiesMelbourne/23-02-23-Navigating-Public-Health-Careers/blob/main/Hock_bioinfo_careers_event.pdf).
+
 # Events in 2022
 
 ## [Choose your own adventure: Tools for Open and Reproducible Research](https://github.com/R-LadiesMelbourne/30-11-22-Chose-your-own-adventure-Tools-For-Open-and-Reproducible-Research.git)
