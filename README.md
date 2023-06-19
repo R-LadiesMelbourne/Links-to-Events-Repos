@@ -9,7 +9,7 @@ R-Ladies Melbourne Events
 
 Presented by [Dr. Danielle Ingle](https://twitter.com/drdanielleingle?lang=en), [Steph Main](https://twitter.com/stephanieemain?lang=en) and [Dr. Danielle Hock](https://twitter.com/daniellahock?lang=en).
 
-Find slides for each presenter [here](https://github.com/R-LadiesMelbourne/23-02-23-Navigating-Public-Health-Careers/blob/main/2023_RLadies_DanielleIngle.pdf), [here](https://github.com/R-LadiesMelbourne/23-02-23-Navigating-Public-Health-Careers/blob/main/Steph%20-%2020230223%20Road%20to%20Applied%20Epi_RLadies%20(2).pdf), [and here](https://github.com/R-LadiesMelbourne/23-02-23-Navigating-Public-Health-Careers/blob/main/Hock_bioinfo_careers_event.pdf).
+Find slides for each presenter [here](https://github.com/R-LadiesMelbourne/23-02-23-Navigating-Public-Health-Careers/blob/main/2023_RLadies_DanielleIngle.pdf), [here](https://github.com/R-LadiesMelbourne/23-02-23-Navigating-Public-Health-Careers/blob/main/Steph%20-%2020230223%20Road%20to%20Applied%20Epi_RLadies%20(2).pdf), and [here](https://github.com/R-LadiesMelbourne/23-02-23-Navigating-Public-Health-Careers/blob/main/Hock_bioinfo_careers_event.pdf).
 
 # Events in 2022
 
