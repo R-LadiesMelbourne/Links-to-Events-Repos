@@ -4,6 +4,14 @@ R-Ladies Melbourne Events
 <img src="README_files/figure-gfm/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
 
 # Events in 2023
+## [It Takes a Spark: Become a Disease Detective](https://github.com/R-LadiesMelbourne/17-11-23-ItTakesASpark)
+
+An interactive workshop presented by R Ladies Melbourne at the annual *It Takes a Spark* conference, held for students and teachers to inspire, learn and engage with current advances in science, technology, engineering and maths. Our workshop material is available online [here](https://bookdown.org/dionne_argy/Workshop/)
+
+## [Teaching Computers to See Scatterplots with Scagnostics]()
+
+Presented by [Harriet Mason](https://github.com/harriet-mason), PhD candidate at Monash University
+Checkout the [CassowaryR package](https://numbats.github.io/cassowaryr/)
 
 ## [What's New in the Tidyverse?](https://github.com/R-LadiesMelbourne/30-05-2023-Whats-New-In-The-Tidyverse)
 
