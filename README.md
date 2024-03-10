@@ -11,6 +11,7 @@ An interactive workshop presented by R Ladies Melbourne at the annual *It Takes 
 ## [Teaching Computers to See Scatterplots with Scagnostics](https://github.com/R-LadiesMelbourne/08-11-23-Teaching-Computers-to-See-Scatterplots-with-Scagnostics)
 
 Presented by [Harriet Mason](https://github.com/harriet-mason), PhD candidate at Monash University
+
 Checkout the [CassowaryR package](https://numbats.github.io/cassowaryr/)
 
 ## [What's New in the Tidyverse?](https://github.com/R-LadiesMelbourne/30-05-2023-Whats-New-In-The-Tidyverse)
