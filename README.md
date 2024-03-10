@@ -3,6 +3,10 @@ R-Ladies Melbourne Events
 
 <img src="README_files/figure-gfm//RLadies-logo-koala.png" style="display: block; margin: auto;" width="250"/>
 
+# Events in 2024
+
+***COMING SOON***
+
 # Events in 2023
 ## [It Takes a Spark: Become a Disease Detective](https://github.com/R-LadiesMelbourne/17-11-23-ItTakesASpark)
 
