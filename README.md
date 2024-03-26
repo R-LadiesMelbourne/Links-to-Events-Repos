@@ -12,7 +12,7 @@ A [panel discussion](https://www.meetup.com/rladies-melbourne/events/299784631/)
 * [Prof. Di Cook](https://github.com/dicook)
 * [Dr. Lauren Smith](https://github.com/lauren-smith-r)
 * [Dr. Mun Hua Tan](https://au.linkedin.com/in/munhuatan)
-* [Evie Gizem]
+* [Evie Gizem]()
 * [Dr. Göknur Giner](https://github.com/goknurginer)
 
 
