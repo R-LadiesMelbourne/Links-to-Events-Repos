@@ -5,7 +5,16 @@ R-Ladies Melbourne Events
 
 # Events in 2024
 
-***COMING SOON***
+## [Careers in data science and statistics](https://github.com/R-LadiesMelbourne/26-03-24-Careers-in-data-science-and-statistics)
+
+A [panel discussion](https://www.meetup.com/rladies-melbourne/events/299784631/) with:
+
+* [Prof. Di Cook](https://github.com/dicook)
+* [Dr. Lauren Smith](https://github.com/lauren-smith-r)
+* [Dr. Mun Hua Tan](https://au.linkedin.com/in/munhuatan)
+* [Evie Gizem]
+* [Dr. Göknur Giner](https://github.com/goknurginer)
+
 
 # Events in 2023
 ## [It Takes a Spark: Become a Disease Detective](https://github.com/R-LadiesMelbourne/17-11-23-ItTakesASpark)
