@@ -8,6 +8,7 @@ R-Ladies Melbourne Events
 ## [Actions to increase diversity in the R-Ladies community - São Paulo](https://github.com/R-LadiesMelbourne/02-05-24-Actions-to-increase-diversity-in-the-R-Ladies-community-Sao-Paulo)
 
 Presented by [Beatrix Milz](https://github.com/beatrizmilz), Post-doc UFABC/Laplan and co-organizer of R-Ladies São Paulo.
+
 Watch the recording [here](https://youtu.be/W-bmjKeQX4M?si=hJiLwiFCQiPJVgTd)
 
 ## [Careers in data science and statistics](https://github.com/R-LadiesMelbourne/26-03-24-Careers-in-data-science-and-statistics)
