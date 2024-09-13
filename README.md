@@ -25,7 +25,7 @@ A [panel discussion](https://www.meetup.com/rladies-melbourne/events/299784631/)
 # Events in 2023
 ## [It Takes a Spark: Become a Disease Detective](https://github.com/R-LadiesMelbourne/17-11-23-ItTakesASpark)
 
-An interactive workshop presented by R Ladies Melbourne at the annual *It Takes a Spark* conference, held for students and teachers to inspire, learn and engage with current advances in science, technology, engineering and maths. Our workshop material is available online [here](https://bookdown.org/dionne_argy/Workshop/)
+An interactive workshop presented by R Ladies Melbourne at the annual *It Takes a Spark* conference, held for students and teachers to inspire, learn and engage with current advances in science, technology, engineering and maths. Our workshop material is available online [here](https://r-ladiesmelbourne.github.io/17-11-23-ItTakesASpark/) and the slides from the workshop [here](https://r-ladiesmelbourne.github.io/It-Takes-a-Spark-Slides/).
 
 ## [Teaching Computers to See Scatterplots with Scagnostics](https://github.com/R-LadiesMelbourne/08-11-23-Teaching-Computers-to-See-Scatterplots-with-Scagnostics)
 
