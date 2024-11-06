@@ -5,6 +5,19 @@ R-Ladies Melbourne Events
 
 # Events in 2024
 
+## [Leveraging the Power of Data in Sport](https://github.com/R-LadiesMelbourne/20-11-24-Leveraging-the-Power-of-Data-in-Sport/tree/main)
+
+We look forward to hearing from Elisa Koch & Lauren Boothby on the 20th of November. 
+
+Join us in person, or online. Signup via [meetup](https://www.meetup.com/en-AU/rladies-melbourne/events/304124032/)
+
+## [It Takes a Spark 2024](https://github.com/R-LadiesMelbourne/24-10-24-ItTakesASpark)
+
+Dionne and Kathleen presented this year's workshop titled "Become a Disease Detective! Solve an Outbreak!"
+
+All our learning material is available online as a [website](https://r-ladiesmelbourne.github.io/17-11-23-ItTakesASpark/) and [slides](https://r-ladiesmelbourne.github.io/It-Takes-a-Spark-Slides/#/TitleSlide).
+
+
 ## [Actions to increase diversity in the R-Ladies community - São Paulo](https://github.com/R-LadiesMelbourne/02-05-24-Actions-to-increase-diversity-in-the-R-Ladies-community-Sao-Paulo)
 
 Presented by [Beatrix Milz](https://github.com/beatrizmilz), Post-doc UFABC/Laplan and co-organizer of R-Ladies São Paulo.
