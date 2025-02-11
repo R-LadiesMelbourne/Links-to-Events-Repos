@@ -3,13 +3,19 @@ R-Ladies Melbourne Events
 
 <img src="README_files/figure-gfm//RLadies-logo-koala.png" style="display: block; margin: auto;" width="250"/>
 
+# Events in 2025
+
+##[Inspiring the Next Generation: R-Ladies Melb at “It Takes A Spark” Conference](https://github.com/R-LadiesMelbourne/26-2-25-Inspiring-the-Next-Generation)
+
+Signup on [meetup](https://www.meetup.com/en-AU/rladies-melbourne/events/306093929/) to hear Dr. Dionne Argyropoulos present R Ladies Melbourne's experience running an interactive workshop using R and epidemiological data for high school students. This will be an online only event held on the 26th February 2025. See you online.
+
 # Events in 2024
 
 ## [Leveraging the Power of Data in Sport](https://github.com/R-LadiesMelbourne/20-11-24-Leveraging-the-Power-of-Data-in-Sport/tree/main)
 
-We look forward to hearing from Elisa Koch & Lauren Boothby on the 20th of November. 
+On the 20th November Elisa Koch & Lauren Boothby from the AFL spoke to the R Ladies Melbourne community about how they use leverage data for the AFL. 
 
-Join us in person, or online. Signup via [meetup](https://www.meetup.com/en-AU/rladies-melbourne/events/304124032/)
+Read more about this event [here](https://github.com/R-LadiesMelbourne/20-11-24-Leveraging-the-Power-of-Data-in-Sport/tree/main) or on the [event meetup page](https://www.meetup.com/en-AU/rladies-melbourne/events/304124032/)
 
 ## [It Takes a Spark 2024](https://github.com/R-LadiesMelbourne/24-10-24-ItTakesASpark)
 
