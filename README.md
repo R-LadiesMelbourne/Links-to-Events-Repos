@@ -7,7 +7,7 @@ R-Ladies Melbourne Events
 
 ## [Inspiring the Next Generation: R-Ladies Melb at “It Takes A Spark” Conference](https://github.com/R-LadiesMelbourne/26-2-25-Inspiring-the-Next-Generation)
 
-Signup on [meetup](https://www.meetup.com/en-AU/rladies-melbourne/events/306093929/) to hear Dr. Dionne Argyropoulos present R Ladies Melbourne's experience running an interactive workshop using R and epidemiological data for high school students. This will be an online only event held on the 26th February 2025. See you online.
+Signup on [meetup](https://www.meetup.com/en-AU/rladies-melbourne/events/306093929/) to hear [Dr. Dionne Argyropoulos](https://github.com/dionnecargy) present R Ladies Melbourne's experience running an interactive workshop using R and epidemiological data for high school students. This will be an online only event held on the 26th February 2025. See you online.
 
 # Events in 2024
 
