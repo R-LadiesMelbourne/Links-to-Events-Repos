@@ -5,9 +5,17 @@ R-Ladies Melbourne Events
 
 # Events in 2025
 
+## [PGEforge: Towards an open analysis ecosystem for Plasmodium genomic epidemiology](https://github.com/R-LadiesMelbourne/27-3-25-PGEforge-Towards-an-open-analysis-ecosystem-for-Plasmodium-genomic-epidemiology/blob/main/README.md)
+
+Join us on the 27th March to hear [Shazia Ruybal Pesántez](https://github.com/shaziaruybal) showcase [PGEforge](https://mrc-ide.github.io/PGEforge), a centralized, open-access repository for malaria genomic data analysis including analysis workflows, software evaluations, and reproducible tutorials. 
+
+In this talk, Shazia will present the functionalities of PGEforge, including real-world applications of genomic data use cases and analysis workflows, our approach to reproducible tutorials, and how we built this community-driven resource at a hackathon event using Quarto!
+
+**Sign up on [Meetup](https://www.meetup.com/en-AU/rladies-melbourne/events/306510844/?eventOrigin=group_upcoming_events). This event will be ONLINE only, 6pm AEDT.**
+
 ## [Inspiring the Next Generation: R-Ladies Melb at “It Takes A Spark” Conference](https://github.com/R-LadiesMelbourne/26-2-25-Inspiring-the-Next-Generation)
 
-Signup on [meetup](https://www.meetup.com/en-AU/rladies-melbourne/events/306093929/) to hear [Dr. Dionne Argyropoulos](https://github.com/dionnecargy) present R Ladies Melbourne's experience running an interactive workshop using R and epidemiological data for high school students. This will be an online only event held on the 26th February 2025. See you online.
+This presentation was prepared by [Dr. Dionne Argyropoulos](https://github.com/dionnecargy) describing R Ladies Melbourne's experience running an interactive workshop using R and epidemiological data for high school students. Have a look at the [material prepared by R Ladies Melbourne](https://r-ladiesmelbourne.github.io/outputs/redu_itas.html) for this event. 
 
 # Events in 2024
 
