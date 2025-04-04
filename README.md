@@ -7,9 +7,9 @@ R-Ladies Melbourne Events
 
 ## [PGEforge: Towards an open analysis ecosystem for Plasmodium genomic epidemiology](https://github.com/R-LadiesMelbourne/27-3-25-PGEforge-Towards-an-open-analysis-ecosystem-for-Plasmodium-genomic-epidemiology/blob/main/README.md)
 
-On the 27th March we [heard](https://www.meetup.com/en-AU/rladies-melbourne/events/306510844/?eventOrigin=group_upcoming_events) from [Shazia Ruybal Pesántez](https://github.com/shaziaruybal) showcasing [PGEforge](https://mrc-ide.github.io/PGEforge), a centralized, open-access repository for malaria genomic data analysis including analysis workflows, software evaluations, and reproducible tutorials. 
+On the 27th March we [heard](https://www.meetup.com/en-AU/rladies-melbourne/events/306510844/?eventOrigin=group_upcoming_events) from [Dr. Shazia Ruybal Pesántez](https://github.com/shaziaruybal) showcasing [PGEforge](https://mrc-ide.github.io/PGEforge), a centralized, open-access repository for malaria genomic data analysis including analysis workflows, software evaluations, and reproducible tutorials. 
 
-Have a look at the slides [here](https://shaziaruybal.github.io/pgeforge_rladiesmelb/)
+See Shazia's slides [here](https://shaziaruybal.github.io/pgeforge_rladiesmelb/)
 
 YouTube...coming soon!
 
