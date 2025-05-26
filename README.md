@@ -5,13 +5,24 @@ R-Ladies Melbourne Events
 
 # Events in 2025
 
+## [Creating simple websites with Quarto + GitHub Pages](https://github.com/R-LadiesMelbourne/28-05-25-Creating-simple-websites-with-Quarto-GitHub-Pages)
+
+With [Danyang Dai](https://github.com/DanyangDai) & [Kathleen Zeglinski](https://github.com/kzeglinski)
+
+Want to build your own website in minutes? Join us to learn how to create a simple, stylish website using Quarto, and publish it for free with GitHub Pages! 🌐✨
+Perfect for portfolios, blogs, or project pages — no experience needed. You could make something like the [RLadies Melbourne website](https://r-ladiesmelbourne.github.io/) or [WEHI's intro to R coursebook](https://kzeglinski.github.io/new_wehi_r_course/)!
+
+Danyang Dai (Daidai) is a third-year PhD candidate at the Queensland Digital Health Centre (QDHeC) at The University of Queensland. Her research focuses on advancing population health outcomes in the post-COVID-19 era. With a strong academic background in Econometrics and Biostatistics, Daidai is also a passionate advocate for the R programming language. She has actively contributed to the academic and professional communities through her involvement with organizations such as R-Ladies Melbourne and by creating educational resources for R programming.
+
+**This event is in person and online on the 28 May 2025...[Signup HERE](https://www.meetup.com/en-AU/rladies-melbourne/events/307776181/)**
+
 ## [PGEforge: Towards an open analysis ecosystem for Plasmodium genomic epidemiology](https://github.com/R-LadiesMelbourne/27-3-25-PGEforge-Towards-an-open-analysis-ecosystem-for-Plasmodium-genomic-epidemiology/blob/main/README.md)
 
 On the 27th March we [heard](https://www.meetup.com/en-AU/rladies-melbourne/events/306510844/?eventOrigin=group_upcoming_events) from [Dr. Shazia Ruybal Pesántez](https://github.com/shaziaruybal) showcasing [PGEforge](https://mrc-ide.github.io/PGEforge), a centralized, open-access repository for malaria genomic data analysis including analysis workflows, software evaluations, and reproducible tutorials. 
 
 See Shazia's slides [here](https://shaziaruybal.github.io/pgeforge_rladiesmelb/)
 
-Watch the event [here]([https://www.youtube.com/@r-ladiesmelbourne509](https://youtu.be/HgdiwgLeAME?si=OY456E47TiUnuNDX))
+Watch the event [here](https://www.youtube.com/@r-ladiesmelbourne509](https://youtu.be/HgdiwgLeAME?si=OY456E47TiUnuNDX)
 
 Blog post...[coming soon!](https://r-ladiesmelbourne.github.io/blog_index.html)
 
