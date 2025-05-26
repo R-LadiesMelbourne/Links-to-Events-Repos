@@ -11,7 +11,7 @@ On the 27th March we [heard](https://www.meetup.com/en-AU/rladies-melbourne/even
 
 See Shazia's slides [here](https://shaziaruybal.github.io/pgeforge_rladiesmelb/)
 
-YouTube...[coming soon!](https://www.youtube.com/@r-ladiesmelbourne509)
+Watch the event [here]([https://www.youtube.com/@r-ladiesmelbourne509](https://youtu.be/HgdiwgLeAME?si=OY456E47TiUnuNDX))
 
 Blog post...[coming soon!](https://r-ladiesmelbourne.github.io/blog_index.html)
 
