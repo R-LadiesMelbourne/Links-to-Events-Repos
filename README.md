@@ -5,7 +5,7 @@ R-Ladies Melbourne Events
 
 # Events in 2025
 
-## Using Git for Version Control and Collaboration
+## [Using Git for Version Control and Collaboration](https://github.com/R-LadiesMelbourne/09-07-2025-Using-Git-for-Version-Control-and-Collaboration/blob/main/README.md)
 
 With Felicia Bongiovanni
 
