@@ -3,13 +3,33 @@ R-Ladies Melbourne Events
 
 <img src="README_files/figure-gfm//RLadies-logo-koala.png" style="display: block; margin: auto;" width="250"/>
 
+# Events in 2026 
+
+## [Deep Probabilistic and Generative Modeling](https://www.meetup.com/rladies-melbourne/events/314684648/?eventOrigin=group_past_events)
+
+## [Di Cook Award Seminar Watch Party - R-Ladies+ Melbourne & SSA-VIC](https://www.meetup.com/rladies-melbourne/events/313938056/?eventOrigin=group_events_list)
+
+## [Data driven decision making for fantasy basketball](https://github.com/R-LadiesMelbourne/18-03-26-Data-driven-decision-making-in-fantasy-basketball)
+
 # Events in 2025
+
+## [End of Year Networking Event](https://www.meetup.com/rladies-melbourne/events/311618784/?eventOrigin=group_events_list)
+
+## [R-Ladies at R Dev Days with Dr Heather Turner](https://www.meetup.com/rladies-melbourne/events/311618693/?eventOrigin=group_events_list)
+
+## [R-Ladies & SSA Melbourne Social Night: Happy 9th Birthday R-Ladies](https://www.meetup.com/rladies-melbourne/events/311337114/?eventOrigin=group_events_list)
+
+##  [Plot Twist: Brining Your ggplot2 Visuals to Life with ggplotly](https://github.com/R-LadiesMelbourne/18-09-25-Plot-Twist-Bringing-Your-ggplot2-Visuals-to-Life-with-ggplotly)
+
+## [R-Ladies Social Night](https://www.meetup.com/rladies-melbourne/events/310287919/?eventOrigin=group_events_list)
+
+This was our very first social night in a long time! 
 
 ## [Using Git for Version Control and Collaboration](https://github.com/R-LadiesMelbourne/09-07-2025-Using-Git-for-Version-Control-and-Collaboration/blob/main/README.md)
 
 With Felicia Bongiovanni
 
-watch the recording of the event [HERE]()
+watch the recording of the event [HERE](https://www.youtube.com/watch?v=8jLE599j738&t=1s)
 
 This presentation gave an introduction to Git, the basics of how to use it, and some of its very helpful applications such as collaboration and code reproducibility. The focus was on the use of Git in conjunction with Github (yes, these are two separate things!). Helping you to effectively use one of the most powerful tools available to you and give you more confidence to code freely without fear.
 
