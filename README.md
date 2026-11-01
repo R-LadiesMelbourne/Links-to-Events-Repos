@@ -1,7 +1,8 @@
 R-Ladies Melbourne Events
 ================
-
-<img src="README_files/figure-gfm//RLadies-logo-koala.png" style="display: block; margin: auto;" width="250"/>
+<p align="center">
+<img src="README_files/Rladies+ Melbourne chapter logo koala_1.svg" style="display: block; margin: auto;" width="250"/>
+</p>
 
 # Events in 2026 
 
