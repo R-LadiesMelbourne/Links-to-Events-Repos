@@ -5,11 +5,40 @@ R-Ladies Melbourne Events
 
 # Events in 2026 
 
+## [`posit::conf(2026) %>% glimpse()`](https://www.meetup.com/rladies-melbourne/events/316880437/?eventOrigin=group_events_list)
+With [Dr Dionne Argyropoulos](https://github.com/dionnecargy) & [Mansi Aggarwal](https://github.com/mansi-agg) October 2026
+
+Join us for a conversation with Dionne and Mansi, who attended posit::conf(2026) in Houston, Texas as Opportunity Scholars.
+
+Take a look at the [slides here](https://mansi-agg.github.io/positconf2026-glimpse-talk/#/TitleSlide) and some [more info here](https://github.com/mansi-agg/positconf2026-glimpse-talk).
+
+Recording ...coming soon...!
+
+## [Meet Positron: A Guided Tour for RStudio Users](https://www.meetup.com/rladies-melbourne/events/315661884/?eventOrigin=group_events_list)
+
+With [Libby Heeren](https://github.com/LibbyHeeren) and [Isabella Velasquez](https://github.com/ivelasq) July 2026
+
+Curious about Positron but not sure where to start? This session is the perfect opportunity to explore the next generation of data science development in a relaxed, beginner-friendly environment.
+
+Watch the recording [here](https://www.youtube.com/watch?v=aF6upt4va4E)
+
 ## [Deep Probabilistic and Generative Modeling](https://www.meetup.com/rladies-melbourne/events/314684648/?eventOrigin=group_past_events)
+
+With [Soroor Hediyehzadeh](https://github.com/soroorh) May 2026
+
+In this meetup, we’ll start with a primer on deep probabilistic modelling before exploring state-of-the-art generative approaches, including probabilistic graphical models, variational inference, diffusion models, and flow matching. The talk will also cover applications of these methods in biomedical research, followed by a short hands-on coding session introducing the basics of building a deep probabilistic model in PyTorch.
+
+Watch the recording [here](https://www.youtube.com/watch?v=LhcfNY3ll90)
 
 ## [Di Cook Award Seminar Watch Party - R-Ladies+ Melbourne & SSA-VIC](https://www.meetup.com/rladies-melbourne/events/313938056/?eventOrigin=group_events_list)
 
 ## [Data driven decision making for fantasy basketball](https://github.com/R-LadiesMelbourne/18-03-26-Data-driven-decision-making-in-fantasy-basketball)
+
+With [Dr Kate Saunders](https://github.com/katerobsau) March 2026
+
+This talk explores both of these issues using fantasy basketball statistics. So come along if you have a love of data and data-driven decision making. Also come along if you are fan of sports analytics or forecasting.
+
+Watch the recording [here](https://www.youtube.com/watch?v=zUCAKb37oxY)
 
 # Events in 2025
 
