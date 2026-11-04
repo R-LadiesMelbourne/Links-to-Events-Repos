@@ -13,7 +13,7 @@ Join us for a conversation with Dionne and Mansi, who attended posit::conf(2026)
 
 Take a look at the [slides here](https://mansi-agg.github.io/positconf2026-glimpse-talk/#/TitleSlide) and some [more info here](https://github.com/mansi-agg/positconf2026-glimpse-talk).
 
-Recording ...coming soon...!
+Watch the recording [here!](https://youtu.be/ofczwxygk9w)
 
 ## [Meet Positron: A Guided Tour for RStudio Users](https://www.meetup.com/rladies-melbourne/events/315661884/?eventOrigin=group_events_list)
 
